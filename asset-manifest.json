@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/custom-hooks-usefetch-app/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/custom-hooks-usefetch-app/static/js/main.d75103ba.chunk.js",
-    "main.js.map": "/custom-hooks-usefetch-app/static/js/main.d75103ba.chunk.js.map",
-    "runtime-main.js": "/custom-hooks-usefetch-app/static/js/runtime-main.ba1dab26.js",
-    "runtime-main.js.map": "/custom-hooks-usefetch-app/static/js/runtime-main.ba1dab26.js.map",
-    "static/js/2.fb49e112.chunk.js": "/custom-hooks-usefetch-app/static/js/2.fb49e112.chunk.js",
-    "static/js/2.fb49e112.chunk.js.map": "/custom-hooks-usefetch-app/static/js/2.fb49e112.chunk.js.map",
-    "static/js/3.2c307867.chunk.js": "/custom-hooks-usefetch-app/static/js/3.2c307867.chunk.js",
-    "static/js/3.2c307867.chunk.js.map": "/custom-hooks-usefetch-app/static/js/3.2c307867.chunk.js.map",
+    "main.js": "/custom-hooks-usefetch-app/static/js/main.b6bb25d7.chunk.js",
+    "main.js.map": "/custom-hooks-usefetch-app/static/js/main.b6bb25d7.chunk.js.map",
+    "runtime-main.js": "/custom-hooks-usefetch-app/static/js/runtime-main.d6888e3c.js",
+    "runtime-main.js.map": "/custom-hooks-usefetch-app/static/js/runtime-main.d6888e3c.js.map",
+    "static/js/2.c830d230.chunk.js": "/custom-hooks-usefetch-app/static/js/2.c830d230.chunk.js",
+    "static/js/2.c830d230.chunk.js.map": "/custom-hooks-usefetch-app/static/js/2.c830d230.chunk.js.map",
+    "static/js/3.df4bfd7e.chunk.js": "/custom-hooks-usefetch-app/static/js/3.df4bfd7e.chunk.js",
+    "static/js/3.df4bfd7e.chunk.js.map": "/custom-hooks-usefetch-app/static/js/3.df4bfd7e.chunk.js.map",
     "index.html": "/custom-hooks-usefetch-app/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/custom-hooks-usefetch-app/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.fb49e112.chunk.js.LICENSE.txt": "/custom-hooks-usefetch-app/static/js/2.fb49e112.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/custom-hooks-usefetch-app/static/media/logo.6ce24c58.svg"
+    "static/js/2.c830d230.chunk.js.LICENSE.txt": "/custom-hooks-usefetch-app/static/js/2.c830d230.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ba1dab26.js",
-    "static/js/2.fb49e112.chunk.js",
+    "static/js/runtime-main.d6888e3c.js",
+    "static/js/2.c830d230.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.d75103ba.chunk.js"
+    "static/js/main.b6bb25d7.chunk.js"
   ]
 }
